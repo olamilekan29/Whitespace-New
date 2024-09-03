@@ -604,7 +604,7 @@ height: 32px;
 .father{
     display: grid;
     margin-top: 0;
-    margin-left: 20px !important;
+    margin-left: 40px !important;
 }
 
 .text h2{
@@ -638,12 +638,19 @@ height: 32px;
     padding: 0 !important;
     height: 342px;
 }
+.head{
+    align-items: center !important;
+    justify-content: center !important;
+    display: grid !important;
+    text-align: center !important;
+}
 .head h4{
     margin-top: 10px;
    margin-left: 0;
     align-items: center !important;
     display: grid;
-    margin-left: 90px;
+    margin-left: 100px;
+   
 }
 .head h3{
     margin-left: 0;
@@ -664,7 +671,7 @@ height: 32px;
 }
 .project h3{
     font-size: 13px;
-    width: 260px;
+    width: 300px;
 }
 /* .son-2 img{
     width: 120px;
@@ -676,7 +683,7 @@ height: 32px;
     width: 130px;
     display: flex;
     margin-top: 10px;
-    margin-left: 10px;
+    margin-left: 25px;
     
 }
 .uncle{
@@ -748,7 +755,7 @@ justify-content: center;
     height: 290px;
     margin-top: 20px;
     margin-bottom: 20px;
-    margin-left: 20px !important;
+    margin-left: 27px !important;
 }
 .Stillhaveaquestions button{
 margin-left: 45px;
@@ -760,7 +767,7 @@ cursor: pointer;
 }
 .carddd{
     display: grid;
-    margin-left: 20px !important;
+    margin-left: 40px !important;
 }
 .card-img-top{
     width: 270px !important;
@@ -768,7 +775,7 @@ cursor: pointer;
 .email{
     display: grid !important;
     width: 300px;
-    margin-left: 10px;
+    margin-left: 20px;
     position: relative;
     align-items: center !important;
     justify-content: center !important;
